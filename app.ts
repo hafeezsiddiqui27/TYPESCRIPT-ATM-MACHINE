@@ -15,7 +15,7 @@ console.log(
 console.log(
   chalk.bold.blue(
     `<<<=========>>>  ${chalk.blueBright.bold(
-      "Welcome To 'Hafeez Siddiqui' - CLI Simple Calculator"
+      "Welcome To 'Hafeez Siddiqui' - ATM Machine"
     )}  <<<=========>>>`
   )
 );
